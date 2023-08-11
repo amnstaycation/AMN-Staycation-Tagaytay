@@ -89,6 +89,7 @@ section{
 }
 
 .header .logo i{
+    font-family: inherit;
     font-size: 10.5 rem;
     color: black;
     padding-right: .rem;
