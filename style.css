@@ -91,6 +91,7 @@ section{
     font-size: 10.5 rem;
     color: black;
     padding-right: .rem;
+    font-family: inherit;
    
 }
 
