@@ -81,6 +81,7 @@ section{
 }
 
 .header .logo{
+    font-family: inherit;
     font-size: 3.5rem;
     font-weight: bolder;
     color: var(--black);
@@ -91,7 +92,7 @@ section{
     font-size: 10.5 rem;
     color: black;
     padding-right: .rem;
-    font-family: inherit;
+   
    
 }
 
